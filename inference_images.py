@@ -104,11 +104,14 @@ dataloader = DataLoader(dataset, batch_size=1, num_workers=args.num_workers, pin
 
 
 # Create output directory
+# if os.path.exists(args.output_dir):
+#     if args.y or input(f'Directory {args.output_dir} already exists. Override? [Y/N]: ').lower() == 'y':
+#         shutil.rmtree(args.output_dir)
+#     else:
+#         exit()
+
 if os.path.exists(args.output_dir):
-    if args.y or input(f'Directory {args.output_dir} already exists. Override? [Y/N]: ').lower() == 'y':
-        shutil.rmtree(args.output_dir)
-    else:
-        exit()
+    shutil.rmtree(args.output_dir)
 
 for output_type in args.output_types:
     os.makedirs(os.path.join(args.output_dir, output_type))

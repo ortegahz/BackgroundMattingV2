@@ -1,0 +1,38 @@
+# paper
+ASPP
+
+# install
+pip install -r requirements.txt
+
+# dataset
+missing PhotoMatte13K/85
+missing background images
+
+# inference
+python inference_images.py --model-type mattingrefine --model-backbone resnet50 --model-backbone-scale 0.25 --model-refine-mode sampling --model-refine-sample-pixels 80000 --model-checkpoint /home/manu/tmp/PyTorch/pytorch_resnet50.pth --images-src /home/manu/tmp/Images/img --images-bgr /home/manu/tmp/Images/bgr --output-dir /home/manu/tmp/bgm_res --output-type com fgr pha
+
+CUDA_VISIBLE_DEVICES=3 python inference_images.py --model-type mattingbase --model-backbone resnet50 --model-backbone-scale 0.25 --model-checkpoint /home/manu/tmp/epoch-7.pth --images-src /home/manu/tmp/Images/img --images-bgr /home/manu/tmp/Images/bgr --output-dir /home/manu/tmp/bgm_res --output-type com fgr pha
+
+# crash when using --video-target-bgr
+python inference_video.py --model-type mattingrefine --model-backbone resnet50 --model-backbone-scale 0.25 --model-refine-mode sampling --model-refine-sample-pixels 80000 --model-checkpoint /home/manu/tmp/PyTorch/pytorch_resnet50.pth --video-src /home/manu/tmp/Videos/z1.mp4 --video-bgr /home/manu/tmp/Videos/z1.png --video-resize 1920 1080 --output-dir /home/manu/tmp/bgm_res --output-type com fgr pha err ref
+
+CUDA_VISIBLE_DEVICES=3 python inference_video.py --model-type mattingbase --model-backbone resnet50 --model-backbone-scale 0.25 --model-checkpoint /home/manu/tmp/epoch-7.pth --video-src /home/manu/tmp/Videos/amateur_green.mp4 --video-bgr /home/manu/tmp/Videos/amateur_green.png --video-resize 1920 1080 --output-dir /home/manu/tmp/bgm_res --output-type com fgr pha err
+
+CUDA_VISIBLE_DEVICES=3 python inference_video.py --model-type mattingrefine --model-backbone resnet50 --model-backbone-scale 0.25 --model-refine-mode sampling --model-refine-sample-pixels 80000 --model-checkpoint /home/manu/tmp/epoch-0.pth --video-src /home/manu/tmp/Videos/b5.mp4 --video-bgr /home/manu/tmp/Videos/b5.png --video-resize 1920 1080 --output-dir /home/manu/tmp/bgm_res --output-type com fgr pha err ref
+
+CUDA_VISIBLE_DEVICES=3 python inference_video.py --model-type mattingrefine --model-backbone resnet50 --model-backbone-scale 0.25 --model-refine-mode sampling --model-refine-sample-pixels 80000 --model-checkpoint /home/manu/tmp/epoch-29.pth --video-src /home/manu/tmp/Videos/z2.mp4 --video-bgr /home/manu/tmp/Videos/z1.png --video-resize 1920 1080 --output-dir /home/manu/tmp/bgm_res --output-type com fgr pha err ref
+
+python inference_webcam.py --model-type mattingrefine --model-backbone resnet50 --model-checkpoint /home/manu/tmp/epoch-29.pth --video-addr rtsp://192.168.3.25:554/ch0_1
+
+# training
+CUDA_VISIBLE_DEVICES=0 python train_base.py --dataset-name videomatte240k --model-backbone resnet50 --model-name mattingbase-resnet50-videomatte240k --model-pretrain-initialization /home/manu/tmp/best_deeplabv3_resnet50_voc_os16.pth --epoch-end 8
+
+CUDA_VISIBLE_DEVICES=0 python train_base.py --dataset-name videomatte240k --model-backbone resnet50 --model-name mattingbase-resnet50-videomatte240k --model-pretrain-initialization /home/ortega/tmp/best_deeplabv3_resnet50_voc_os16.pth --epoch-end 8
+
+CUDA_VISIBLE_DEVICES=0,1 python train_refine.py --dataset-name videomatte240k --model-backbone resnet50 --model-name mattingrefine-resnet50-videomatte240k --model-last-checkpoint checkpoint/mattingbase-resnet50-videomatte240k/epoch-7.pth --epoch-end 1
+
+CUDA_VISIBLE_DEVICES=0,1 python train_refine.py --dataset-name distinction --model-backbone resnet50 --model-name mattingrefine-resnet50-distinction --model-last-checkpoint checkpoint/mattingrefine-resnet50-videomatte240k/epoch-0.pth --epoch-end 30
+
+# log
+tensorboard --logdir log
+tensorboard --logdir /home/manu/tmp/log/

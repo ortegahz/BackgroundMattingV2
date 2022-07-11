@@ -36,6 +36,7 @@ from model import MattingBase, MattingRefine
 
 parser = argparse.ArgumentParser(description='Inference from web-cam')
 
+parser.add_argument('--video-addr', type=str, required=True)
 parser.add_argument('--model-type', type=str, required=True, choices=['mattingbase', 'mattingrefine'])
 parser.add_argument('--model-backbone', type=str, required=True, choices=['resnet101', 'resnet50', 'mobilenetv2'])
 parser.add_argument('--model-backbone-scale', type=float, default=0.25)
@@ -139,7 +140,7 @@ model.load_state_dict(torch.load(args.model_checkpoint), strict=False)
 
 
 width, height = args.resolution
-cam = Camera(width=width, height=height)
+cam = Camera(width=width, height=height, device_id=args.video_addr)
 dsp = Displayer('MattingV2', cam.width, cam.height, show_info=(not args.hide_fps))
 
 def cv2_frame_to_cuda(frame):

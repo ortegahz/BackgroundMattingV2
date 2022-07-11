@@ -23,12 +23,12 @@ dataset to the list as long as it follows the format. 'fgr' should point to fore
 DATA_PATH = {
     'videomatte240k': {
         'train': {
-            'fgr': 'PATH_TO_IMAGES_DIR',
-            'pha': 'PATH_TO_IMAGES_DIR'
+            'fgr': '/media/sdb/data/matting-data/VideoMatte240K_JPEG_SD/train/fgr',
+            'pha': '/media/sdb/data/matting-data/VideoMatte240K_JPEG_SD/train/pha'
         },
         'valid': {
-            'fgr': 'PATH_TO_IMAGES_DIR',
-            'pha': 'PATH_TO_IMAGES_DIR'
+            'fgr': '/media/sdb/data/matting-data/VideoMatte240K_JPEG_SD/test/fgr',
+            'pha': '/media/sdb/data/matting-data/VideoMatte240K_JPEG_SD/test/pha'
         }
     },
     'photomatte13k': {
@@ -43,12 +43,12 @@ DATA_PATH = {
     },
     'distinction': {
         'train': {
-            'fgr': 'PATH_TO_IMAGES_DIR',
-            'pha': 'PATH_TO_IMAGES_DIR',
+            'fgr': '/media/sdb/data/matting-data/Distinctions-646/Train/FG',
+            'pha': '/media/sdb/data/matting-data/Distinctions-646/Train/GT',
         },
         'valid': {
-            'fgr': 'PATH_TO_IMAGES_DIR',
-            'pha': 'PATH_TO_IMAGES_DIR'
+            'fgr': '/media/sdb/data/matting-data/Distinctions-646/Test/FG',
+            'pha': '/media/sdb/data/matting-data/Distinctions-646/Test/GT'
         },
     },
     'adobe': {
@@ -62,7 +62,7 @@ DATA_PATH = {
         },
     },
     'backgrounds': {
-        'train': 'PATH_TO_IMAGES_DIR',
-        'valid': 'PATH_TO_IMAGES_DIR'
+        'train': '/media/sdb/data/matting-data/Backgrounds/train',
+        'valid': '/media/sdb/data/matting-data/Backgrounds/valid'
     },
 }

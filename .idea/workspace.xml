@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/inference_images.py" line="41" />
+    <bookmark url="file://$PROJECT_DIR$/inference_images.py" line="82" />
+    <bookmark url="file://$PROJECT_DIR$/inference_images.py" line="95" />
+    <bookmark url="file://$PROJECT_DIR$/inference_images.py" line="102" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="45" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="68" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="120" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="134" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="133" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="135" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="140" />
+    <bookmark url="file://$PROJECT_DIR$/inference_video.py" line="183" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="43" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="63" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="264" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="93" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="76" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="104" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="114" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="120" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="123" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="125" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="127" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="132" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="142" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="147" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="152" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="162" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="165" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="172" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="178" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="183" />
+    <bookmark url="file://$PROJECT_DIR$/train_base.py" line="207" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="303" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="304" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="305" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="82" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="83" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="84" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="108" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="109" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="140" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="146" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="179" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="189" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="192" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="199" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="205" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="211" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="234" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="212" />
+    <bookmark url="file://$PROJECT_DIR$/model/model.py" line="151" />
+    <bookmark url="file://$PROJECT_DIR$/model/model.py" line="152" />
+    <bookmark url="file://$PROJECT_DIR$/model/model.py" line="180" />
+    <bookmark url="file://$PROJECT_DIR$/model/model.py" line="181" />
+    <bookmark url="file://$PROJECT_DIR$/model/model.py" line="188" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="283" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="285" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="290" />
+    <bookmark url="file://$PROJECT_DIR$/train_refine.py" line="291" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="131" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="132" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="133" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="144" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="36" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="130" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="128" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="138" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="142" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="143" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="153" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="154" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="161" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="162" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="163" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="164" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="167" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="86" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="88" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="89" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="90" />
+    <bookmark url="file://$PROJECT_DIR$/inference_webcam.py" line="109" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="94" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="123" />
+    <bookmark url="file://$PROJECT_DIR$/model/refiner.py" line="182" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57cfc7d5-0423-4495-bff8-ae0eec5cce17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference_webcam.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference_webcam.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BackgroundMattingV2$train_base.coverage" NAME="train_base Coverage Results" MODIFIED="1656642930250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BackgroundMattingV2$inference_webcam.coverage" NAME="inference_webcam Coverage Results" MODIFIED="1656931137373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BackgroundMattingV2$inference_images.coverage" NAME="inference_images Coverage Results" MODIFIED="1656474745342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BackgroundMattingV2$inference_video.coverage" NAME="inference_video Coverage Results" MODIFIED="1656491179413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BackgroundMattingV2$video.coverage" NAME="video Coverage Results" MODIFIED="1656490873885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmds.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inference_video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="189" column="91" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_path.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="191" selection-start-line="191" selection-end-line="191" />
+              <folding>
+                <element signature="e#440#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train_refine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="52" column="70" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="70" />
+              <folding>
+                <element signature="e#456#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="152" column="26" lean-forward="true" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/refiner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="142" column="28" lean-forward="true" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inference_webcam.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+              <folding>
+                <element signature="e#473#506#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dlh</find>
+      <find>x = tuple(d[idx % len(d)] for d in self.datasets)</find>
+      <find>$USER_HOME$/mnt/kingstop/matting-data</find>
+      <find>$PROJECT_DIR$/../../matting-data</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$PROJECT_DIR$/../../../../sdb/data/matting-data</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/inference_images.py" />
+        <option value="$PROJECT_DIR$/dataset/video.py" />
+        <option value="$PROJECT_DIR$/inference_video.py" />
+        <option value="$PROJECT_DIR$/dataset/images.py" />
+        <option value="$PROJECT_DIR$/train_base.py" />
+        <option value="$PROJECT_DIR$/data_path.py" />
+        <option value="$PROJECT_DIR$/cmds.txt" />
+        <option value="$PROJECT_DIR$/inference_webcam.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="178" />
+    <option name="y" value="88" />
+    <option name="width" value="1378" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BackgroundMattingV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BackgroundMattingV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tb-rk3399-pro-d_demos" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.inference_webcam">
+    <configuration name="inference_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BackgroundMattingV2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inference_images.py" />
+      <option name="PARAMETERS" value="--model-type mattingrefine --model-backbone resnet50 --model-backbone-scale 0.25 --model-refine-mode sampling --model-refine-sample-pixels 80000 --model-checkpoint $USER_HOME$/tmp/PyTorch/pytorch_resnet50.pth --images-src $USER_HOME$/tmp/Images/img/1.png --images-bgr $USER_HOME$/tmp/Images/bgr/1.png --output-dir $USER_HOME$/tmp/bgm_res --output-type com fgr pha" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inference_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BackgroundMattingV2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inference_video.py" />
+      <option name="PARAMETERS" value="--model-type mattingrefine --model-backbone resnet50 --model-backbone-scale 0.25 --model-refine-mode sampling --model-refine-sample-pixels 80000 --model-checkpoint $USER_HOME$/tmp/PyTorch/pytorch_resnet50.pth --video-src $USER_HOME$/tmp/Videos/z1.mp4 --video-bgr $USER_HOME$/tmp/Videos/z1.png --video-resize 1920 1080 --output-dir $USER_HOME$/tmp/bgm_res --output-type com fgr pha err ref --video-target-bgr $USER_HOME$/tmp/beach_nature_7-wallpaper-1920x1080.jpg" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inference_webcam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BackgroundMattingV2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inference_webcam.py" />
+      <option name="PARAMETERS" value="--model-type mattingrefine --model-backbone resnet50 --model-checkpoint $USER_HOME$/tmp/epoch-29.pth --resolution 1280 720 --video-addr $USER_HOME$/tmp/Videos/z1.mp4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BackgroundMattingV2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_base.py" />
+      <option name="PARAMETERS" value="--dataset-name videomatte240k --model-backbone resnet50 --model-name mattingbase-resnet50-videomatte240k --model-pretrain-initialization $USER_HOME$/tmp/best_deeplabv3_resnet50_voc_os16.pth --epoch-end 8" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BackgroundMattingV2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset/video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.inference_images" />
+      <item itemvalue="Python.inference_video" />
+      <item itemvalue="Python.video" />
+      <item itemvalue="Python.train_base" />
+      <item itemvalue="Python.inference_webcam" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.inference_webcam" />
+        <item itemvalue="Python.train_base" />
+        <item itemvalue="Python.inference_video" />
+        <item itemvalue="Python.video" />
+        <item itemvalue="Python.inference_images" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57cfc7d5-0423-4495-bff8-ae0eec5cce17" name="Default Changelist" comment="" />
+      <created>1656410176143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656410176143</updated>
+      <workItem from="1656410177347" duration="7070000" />
+      <workItem from="1656492884523" duration="31867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38937000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2531998" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" sideWeight="0.49972177" weight="0.32929516" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32929516" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39977974" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50027823" side_tool="true" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32929516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>self.filenames = sorted([*glob.glob(os.path.join(root, '**', '*.jpg'), recursive=True),
+                                 *glob.glob(os.path.join(root, '**', '*.png'), recursive=True),
+                                 *glob.glob(os.path.join(root, '**', '*.jpeg'), recursive=True)])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.filenames = sorted([*glob.glob(os.path.join(root, '**', '*.jpg'), recursive=True),
+                         *glob.glob(os.path.join(root, '**', '*.png'), recursive=True),
+                         *glob.glob(os.path.join(root, '**', '*.jpeg'), recursive=True)])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.filenames = sorted([*glob.glob(os.path.join(root, '**', '*.jpg'), recursive=True),
+                         *glob.glob(os.path.join(root, '**', '*.png'), recursive=True)])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>self.filenames</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>DATA_PATH[args.dataset_name]['train']['pha']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dataset_valid</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img.shape()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>img.</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inference_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="96" column="9" lean-forward="true" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/bm/lib/python3.8/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="875" selection-start-line="875" selection-end-line="875" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/bm/lib/python3.8/site-packages/google/protobuf/descriptor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="559" selection-start-line="559" selection-end-line="559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/bm/lib/python3.8/site-packages/torch/utils/data/sampler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/bm/lib/python3.8/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1637" column="8" selection-start-line="1637" selection-start-column="8" selection-end-line="1637" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/augmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1707">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/bm/lib/python3.8/site-packages/torch/utils/data/dataloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="e#440#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="152" column="26" lean-forward="true" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="189" column="91" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_refine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="52" column="70" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="70" />
+          <folding>
+            <element signature="e#456#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/bm/lib/python3.8/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference_webcam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="e#473#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/refiner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="142" column="28" lean-forward="true" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

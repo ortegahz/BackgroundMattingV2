@@ -142,11 +142,13 @@ if args.video_target_bgr:
     dataset = ZipDataset([dataset, VideoDataset(args.video_target_bgr, transforms=T.ToTensor())])
 
 # Create output directory
+# if os.path.exists(args.output_dir):
+#     if input(f'Directory {args.output_dir} already exists. Override? [Y/N]: ').lower() == 'y':
+#         shutil.rmtree(args.output_dir)
+#     else:
+#         exit()
 if os.path.exists(args.output_dir):
-    if input(f'Directory {args.output_dir} already exists. Override? [Y/N]: ').lower() == 'y':
-        shutil.rmtree(args.output_dir)
-    else:
-        exit()
+    shutil.rmtree(args.output_dir)
 os.makedirs(args.output_dir)
 
 
@@ -185,7 +187,7 @@ with torch.no_grad():
             tgt_bgr = tgt_bgr.to(device, non_blocking=True)
         else:
             src, bgr = input_batch
-            tgt_bgr = torch.tensor([120/255, 255/255, 155/255], device=device).view(1, 3, 1, 1)
+            tgt_bgr = torch.tensor([255/255, 0/255, 0/255], device=device).view(1, 3, 1, 1)
         src = src.to(device, non_blocking=True)
         bgr = bgr.to(device, non_blocking=True)
         
